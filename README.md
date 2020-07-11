@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-## 🔭I'm currently working on:
+#### 🔭 I'm currently working on:
 
 - Building MERN stacks with MySQL.
 
-## 🌱I'm currently learning:
+#### 🌱 I'm currently learning:
 
 - Web development with Shopify
 - Flexbox
 
-## 📫How to reach me:
+#### 📫 How to reach me:
 
 - Email: shelbypalumbo94@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shelby-palumbo/
