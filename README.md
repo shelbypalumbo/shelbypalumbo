@@ -8,6 +8,7 @@
 
 - Web development with Shopify
 - Flexbox
+- Redux
 
 #### 📫 How to reach me:
 
