@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+## 🔭I'm currently working on:
+
+- Building MERN stacks with MySQL.
+
+## 🌱I'm currently learning:
+
+- Web development with Shopify
+- Flexbox
+
+## 📫How to reach me:
+
+- Email: shelbypalumbo94@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shelby-palumbo/
+
 <!--
 **shelbypalumbo/shelbypalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
