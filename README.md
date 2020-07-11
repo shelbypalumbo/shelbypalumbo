@@ -15,8 +15,12 @@
 - Email: shelbypalumbo94@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shelby-palumbo/
 
-<!--
-**shelbypalumbo/shelbypalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 😄 Ask me about:
+
+- My cats
+  ![Mina & Loui](./tableCats.jpg)
+  <!--
+  **shelbypalumbo/shelbypalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
