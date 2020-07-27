@@ -19,8 +19,6 @@
 
 - My cats
 
-  ![Mina & Loui](./images/tableCats.png)
-
   <!--
   **shelbypalumbo/shelbypalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
