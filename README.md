@@ -18,7 +18,9 @@
 #### 😄 Ask me about:
 
 - My cats
-![Alt Text](![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
+
+![cats](https://media.giphy.com/media/PekRU0CYIpXS8/giphy.gif)
+
   <!--
   **shelbypalumbo/shelbypalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
