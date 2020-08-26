@@ -18,7 +18,7 @@
 
 #### 😄 Ask me about:
 
- My cats
+- My cats
 
 ![cats](https://media.giphy.com/media/PekRU0CYIpXS8/giphy.gif)
 
