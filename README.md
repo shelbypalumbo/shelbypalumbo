@@ -14,6 +14,7 @@
 
 - Email: shelbypalumbo94@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shelby-palumbo/
+- Website: https://shelbypalumbo.github.io/Shelby-Palumbo-React-Portfolio/
 
 #### 😄 Ask me about:
 
