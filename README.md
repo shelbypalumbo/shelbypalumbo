@@ -2,7 +2,7 @@
 
 #### 🔭 I'm currently working on:
 
-- React algorithm testing application.
+- React algorithm testing application
 
 #### 🌱 I'm currently learning:
 
