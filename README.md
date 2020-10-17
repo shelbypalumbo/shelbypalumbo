@@ -2,13 +2,11 @@
 
 #### 🔭 I'm currently working on:
 
-- Building MERN stacks with MySQL.
+- React algorithm testing application.
 
 #### 🌱 I'm currently learning:
 
-- Web development with Shopify
-- Flexbox
-- Redux
+- MERN Stack Development
 
 #### 📫 How to reach me:
 
